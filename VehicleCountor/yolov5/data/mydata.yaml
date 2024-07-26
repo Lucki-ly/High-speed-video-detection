@@ -1,0 +1,5 @@
+train: C:\Users\CKQ\Desktop\Lessons\VehicleCountor\yolov5\data\mydata\train.txt
+val: C:\Users\CKQ\Desktop\Lessons\VehicleCountor\yolov5\data\mydata\val.txt
+
+nc: 1
+names: ["car"]

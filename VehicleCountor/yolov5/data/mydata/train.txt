@@ -1,0 +1,6 @@
+C:\Users\CKQ\Desktop\Lessons\VehicleCountor\yolov5\data\mydata\images\1.jpg
+C:\Users\CKQ\Desktop\Lessons\VehicleCountor\yolov5\data\mydata\images\10.jpg
+C:\Users\CKQ\Desktop\Lessons\VehicleCountor\yolov5\data\mydata\images\15.jpg
+C:\Users\CKQ\Desktop\Lessons\VehicleCountor\yolov5\data\mydata\images\2.jpg
+C:\Users\CKQ\Desktop\Lessons\VehicleCountor\yolov5\data\mydata\images\5.jpg
+C:\Users\CKQ\Desktop\Lessons\VehicleCountor\yolov5\data\mydata\images\7.jpg
